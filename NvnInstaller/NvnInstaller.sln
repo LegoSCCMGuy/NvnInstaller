@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NvnInstaller.Scheduler", "NvnInstaller.Scheduler\NvnInstaller.Scheduler.csproj", "{11B1952C-6107-4184-BFAC-B8B1AD086260}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NvnInstaller.Common", "NvnInstaller.Common\NvnInstaller.Common.csproj", "{87EBCADE-BE9F-42C0-8024-9C2AA0C82079}"
@@ -52,5 +54,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04401D00-4134-4FFF-A1F1-708E66FABD43}
 	EndGlobalSection
 EndGlobal
